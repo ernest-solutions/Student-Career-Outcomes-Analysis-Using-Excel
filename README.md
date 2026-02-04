@@ -119,5 +119,7 @@ This project demonstrates end-to-end Excel data analytics skills, including stru
 ## 👤 Author
 
 **Ernest Elikplim Ayidenu**
+
 Data Analyst
+
 ICT Education
