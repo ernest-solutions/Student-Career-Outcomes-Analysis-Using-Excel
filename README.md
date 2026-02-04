@@ -64,6 +64,7 @@ An Excel dashboard was created to visually communicate the most important insigh
 
 ### 📷 Dashboard Screenshot
 
+![Dashboard Screenshot](Dashboard.png)
 
 ## Insights and Recommendations
 
