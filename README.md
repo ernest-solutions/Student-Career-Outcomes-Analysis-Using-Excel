@@ -100,8 +100,8 @@ Greater emphasis should be placed on soft skills development, networking, and ca
 
 Policies aimed at improving access to internships, skills training, and certification programs—especially for students in lower-performing or underrepresented fields—may help reduce inequalities in career outcomes.
 
-Overall, the analysis suggests that successful early career outcomes are driven by a combination of academic achievement, experiential learning, skills development, and strategic career planning rather than academic performance alone.
----
+**Overall, the findings suggest that while academic performance is important, practical experience, skills development, and certifications play a critical role in shaping career outcomes. Educational institutions should encourage internship participation, skills training, and certification programs to better prepare students for the job market. Students are also advised to balance academic achievement with experiential learning and personal skill development to improve career satisfaction and advancement prospects**
+
 
 ## Tools Used
 
