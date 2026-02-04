@@ -67,7 +67,7 @@ An Excel dashboard was created to visually communicate the most important insigh
 
 ## Insights and Recommendations
 
-### **Key Insights **
+### Key Insights 
 
 * Higher academic performance is associated with increased job offers.
 * Internship experience has a strong positive effect on starting salary.
