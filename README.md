@@ -70,20 +70,33 @@ An Excel dashboard was created to visually communicate the most important insigh
 
 ### Key Insights 
 
-* Higher academic performance is associated with increased job offers.
-* Internship experience has a strong positive effect on starting salary.
-* Career outcomes vary across fields of study.
-* Strong soft skills, networking, and work-life balance contribute to higher career satisfaction.
-* Job level influences promotion speed, with senior roles progressing faster.
-* Certifications are linked to improved salary outcomes.
+The analysis and dashboard visualizations reveal clear relationships between academic, experiential, and skill-based factors and early career outcomes. Students with higher university GPA levels received a greater number of job offers, indicating a strong positive relationship between academic performance and employability. This trend becomes more pronounced at higher GPA ranges, suggesting that academic excellence significantly improves job market competitiveness.
 
-### **Key Recommendations (Summary)**
+**Internship experience** was found to be one of the strongest predictors of **starting salary**. The dashboard shows a steady increase in average starting salary as the number of **internships completed** increases, with students completing multiple internships earning substantially higher salaries than those with little or no internship experience.
 
-* **Students** should balance academic performance with internships, skills development, and certifications.
-* **Educational institutions** should expand internship programs and integrate practical learning into curricula.
-* **Career advisors** should emphasize soft skills, networking, and career readiness training.
-* **Policymakers** should support access to experiential learning and certification opportunities to improve employability outcomes.
+**Career outcomes** also varied across **fields of study**. Disciplines such as Business, Engineering, and Computer Science recorded higher student representation and stronger salary-related outcomes compared to some other fields, indicating that field of study plays a role in shaping early career earnings.
 
+Analysis of **career progression** showed that **job level** is associated with **promotion timelines**. Senior-level positions were linked to shorter average years to promotion, while entry-level roles required longer periods for advancement. This suggests that early career positioning influences long-term progression speed.
+
+In addition, students with stronger soft skills and networking abilities reported higher levels of career satisfaction, and better work-life balance was associated with increased satisfaction. These findings highlight that non-academic factors contribute meaningfully to overall career success.
+
+## Key Recommendations
+
+Based on the findings from the analysis and dashboard, the following recommendations are proposed:
+
+**For Students:**
+Students should strive to balance strong academic performance with practical experience. While maintaining a high GPA improves employability, actively pursuing internships and certifications can significantly enhance starting salary and long-term career prospects.
+
+**For Educational Institutions:**
+Institutions should strengthen partnerships with industry to expand internship and experiential learning opportunities. Embedding internship programs, project-based learning, and certification pathways into academic curricula can better prepare students for the job market.
+
+**For Career Advisors and Program Coordinators:**
+Greater emphasis should be placed on soft skills development, networking, and career readiness training. These factors were shown to influence career satisfaction and should be integrated into career guidance programs.
+
+**For Policy Makers and Education Planners:**
+Policies aimed at improving access to internships, skills training, and certification programs—especially for students in lower-performing or underrepresented fields—may help reduce inequalities in career outcomes.
+
+Overall, the analysis suggests that successful early career outcomes are driven by a combination of academic achievement, experiential learning, skills development, and strategic career planning rather than academic performance alone.
 ---
 
 ## Tools Used
