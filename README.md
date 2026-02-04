@@ -84,16 +84,19 @@ In addition, students with stronger soft skills and networking abilities reporte
 
 Based on the findings from the analysis and dashboard, the following recommendations are proposed:
 
-**For Students:**
+**For Students**
 Students should strive to balance strong academic performance with practical experience. While maintaining a high GPA improves employability, actively pursuing internships and certifications can significantly enhance starting salary and long-term career prospects.
 
-**For Educational Institutions:**
+**For Educational Institutions**
+
 Institutions should strengthen partnerships with industry to expand internship and experiential learning opportunities. Embedding internship programs, project-based learning, and certification pathways into academic curricula can better prepare students for the job market.
 
-**For Career Advisors and Program Coordinators:**
+**For Career Advisors and Program Coordinators**
+
 Greater emphasis should be placed on soft skills development, networking, and career readiness training. These factors were shown to influence career satisfaction and should be integrated into career guidance programs.
 
-**For Policy Makers and Education Planners:**
+**For Policy Makers and Education Planners**
+
 Policies aimed at improving access to internships, skills training, and certification programs—especially for students in lower-performing or underrepresented fields—may help reduce inequalities in career outcomes.
 
 Overall, the analysis suggests that successful early career outcomes are driven by a combination of academic achievement, experiential learning, skills development, and strategic career planning rather than academic performance alone.
@@ -114,5 +117,6 @@ This project demonstrates end-to-end Excel data analytics skills, including stru
 
 ## 👤 Author
 
-**Ernest Ayidenu**
-Data Analyst | ICT Education
+**Ernest Elikplim Ayidenu**
+Data Analyst
+ICT Education
