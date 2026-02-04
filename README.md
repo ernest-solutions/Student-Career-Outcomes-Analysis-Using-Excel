@@ -1,4 +1,4 @@
-## 📊 Project 1 — Excel Data Analytics
+## 📊 Excel Data Analytics
 
 ## Student Career Outcomes Analysis
 
@@ -85,6 +85,7 @@ In addition, students with stronger soft skills and networking abilities reporte
 Based on the findings from the analysis and dashboard, the following recommendations are proposed:
 
 **For Students**
+
 Students should strive to balance strong academic performance with practical experience. While maintaining a high GPA improves employability, actively pursuing internships and certifications can significantly enhance starting salary and long-term career prospects.
 
 **For Educational Institutions**
